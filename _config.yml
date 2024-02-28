@@ -1,1 +1,2 @@
-theme : minima
+theme : minima,
+description: "This is a website that has been developed using Github Pages"
